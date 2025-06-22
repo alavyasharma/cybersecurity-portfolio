@@ -5,6 +5,8 @@ I'm Alavya Sharma, an aspiring cybersecurity analyst passionate about risk manag
 - 🔎 [Botium Toys Audit](./Projects/Botium-Toys-Audit): My first vulnerability audit project
 - 📄 [Google Cert 1](./cybersec%20cert%201.pdf)
 - 📄 [Google Cert 2](./cybersec%20cert%202.pdf)
+- [View the full Incident Report Analysis (PDF)](./docs/Incident%20Report%20Analysis.pdf)
+
 
 ## 🚀 In Progress
 - 🛡️ TryHackMe (Pre-Security → JR Pen Tester path)
