@@ -4,7 +4,7 @@ I'm Alavya Sharma, an aspiring cybersecurity analyst passionate about risk manag
 ## 📁 What's Inside
 - 🔎 [Botium Toys Audit](./Projects/Botium-Toys-Audit): My first vulnerability audit project
 - [View the full Incident Report Analysis (PDF)](./docs/Incident%20Report%20Analysis.pdf)
-- Accounting exercise with worksheet : Access control worksheet.pdf
+- Security Accounting exercise with worksheet 
 
 ## 🚀 In Progress
 - 🛡️ TryHackMe (Pre-Security → JR Pen Tester path)
