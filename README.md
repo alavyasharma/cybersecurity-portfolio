@@ -3,9 +3,8 @@ I'm Alavya Sharma, an aspiring cybersecurity analyst passionate about risk manag
 
 ## 📁 What's Inside
 - 🔎 [Botium Toys Audit](./Projects/Botium-Toys-Audit): My first vulnerability audit project
-- 📄 [Google Cert 1](./cybersec%20cert%201.pdf)
-- 📄 [Google Cert 2](./cybersec%20cert%202.pdf)
 - [View the full Incident Report Analysis (PDF)](./docs/Incident%20Report%20Analysis.pdf)
+- Accounting exercise with worksheet : https://github.com/alavyasharma/cybersecurity-portfolio/blob/main/Access%20control%20worksheet.pdf
 
 
 ## 🚀 In Progress
